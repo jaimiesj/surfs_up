@@ -12,4 +12,4 @@ In an effort to prepare for a potential surf and ice cream shop in Oahu, tempera
 ## Summary
 Despite the different seasons, the average and high temperature between June and December over a 6 year period isn't very close. The difference between June and December lie in the lowest temperature; that would have to be soemthing to take into consideration when it comes to evening crowds and activities. The shop may need to close early in December. Additional analysis that can be performed can look at the precipitation in those specific months, see if there is a difference in that regard. Also, to compare how many high days there are in June vs December.
 
-Additional resouces, 
+Additional resouces, including code, is found at https://github.com/jaimiesj/surfs_up
